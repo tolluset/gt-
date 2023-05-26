@@ -35,4 +35,13 @@ gt bc -am "add fizz"
 
 touch buzz
 gt bc -am "add buzz"
+```
+
+### Publish
+
+Add PR in github
+
+```
+gt ss (or use 'gt ss -np' can pubish pr without confirm)
+```
 
