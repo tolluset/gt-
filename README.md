@@ -21,7 +21,7 @@ Recommend for set prefix and disable day-prefix by graphtie, if you are using pr
 
 ```
 gt user branch-date --disable
-gt user branch-prefix -s "1382810" (ticket's number)
+gt user branch-prefix -s "1382810_" (ticket's number)
 ```
 
 And make 'stack'
